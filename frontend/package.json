@@ -1,5 +1,5 @@
 {
-  "name": "GoMore_frontend",
+  "name": "workapp",
   "version": "0.1.0",
   "dependencies": {
     "axios": "^0.19.2",
